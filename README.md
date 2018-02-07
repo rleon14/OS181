@@ -1,3 +1,2 @@
 # OS181
-nama: Rizki Leonardo
-npm: 1606878934
+ZCZC Sistem Operasi 2018 Awal (1)
